@@ -1,5 +1,6 @@
 
 # import required module 
+# I like to do stuff like this
 import pyttsx3
 import AppOpener
 import os
